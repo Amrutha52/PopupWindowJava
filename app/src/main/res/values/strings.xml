@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">popupwindow</string>
+    <string name="textButtonMain">textButtonMain</string>
+    <string name="textTitle">textTitle</string>
+    <string name="textButton">textButton</string>
+</resources>
